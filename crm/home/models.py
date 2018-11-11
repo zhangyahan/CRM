@@ -225,7 +225,7 @@ class UserProfile(models.Model):
     role = models.ManyToManyField('Role', blank=True, null=True)  # 角色(也代表权限)
 
     def __str__(self):
-        return '<UserProfile {}>'.format(self.name)
+        return '{}'.format(self.name)
 
     class Meta:
         verbose_name = '账户表'
@@ -238,7 +238,7 @@ class Role(models.Model):
     menus = models.ManyToManyField('Menu', blank=True)
 
     def __str__(self):
-        return "<Role {}>".format(self.name)
+        return "{}".format(self.name)
 
     class Meta:
         verbose_name = '角色表'

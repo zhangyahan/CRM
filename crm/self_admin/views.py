@@ -12,9 +12,9 @@ def index(request):
 
 def display_table_obj(request, app_name, table_name):
     print(app_name, table_name)
-    model_module = importlib.import_module('{}.models'.format(app_name))
-    model_obj = getattr(model_module, table_name)
+    # model_module = importlib.import_module('{}.models'.format(app_name))
+    # model_obj = getattr(model_module, table_name)
     context = dict()
 
-    context['model_obj'] = model_obj
+    context['admin_class'] = self_admin.enabled_admins[app_name][table_name]
     return render(request, 'self_admin/table_obj.html', context)

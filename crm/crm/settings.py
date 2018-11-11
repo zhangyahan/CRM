@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'crm',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': '123456',
+        'PASSWORD': 'zyh1997',
         'PORT': 3306,
         'CHARSET': 'utf8',
     }
