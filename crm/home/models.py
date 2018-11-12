@@ -29,7 +29,7 @@ class Customer(models.Model):
     tags = models.ManyToManyField('Tag', blank=True, null=True)  # 标签
     status_choices = ((0, '已报名'),
                       (1, '未报名'),)  # 客户状态选择
-    status = models.SmallIntegerField(choices=source_choices, default=1)  # 客户状态
+    status = models.SmallIntegerField(choices=status_choices, default=1)  # 客户状态
     memo = models.TextField(blank=True, null=True)  # 备注  memo(备忘录)
     date = models.DateTimeField(auto_now_add=True)  # 时间, auto_now_add, 创建该记录时自动添加当前本地时间
 
