@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="13182550-91c5-4ce0-86b1-a89018e32ce3" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="880519db-95eb-4e9a-9116-9ba498f6b1f9" name="Default Changelist" comment="" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/crm$practice.coverage" NAME="practice Coverage Results" MODIFIED="1542105961353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/pandas_day_01/pandas_day01_student/pandas_student" />
     <SUITE FILE_PATH="coverage/crm$mydeco1.coverage" NAME="mydeco1 Coverage Results" MODIFIED="1542101515567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Python/Python/day12/code" />
@@ -51,10 +56,13 @@
     </expand>
     <select />
   </component>
+=======
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
     <session id="1593449999">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
@@ -107,6 +115,46 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
+=======
+    <session id="-768085238">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="425" />
+          <entry key="py" value="897" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="425" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="897" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="py" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
     </session>
   </component>
   <component name="FavoritesManager">
@@ -115,6 +163,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/self_admin/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="902">
@@ -130,20 +179,47 @@
                 <element signature="e#1720#1852#0" />
                 <marker date="1542023010972" expanded="false" signature="298:328" ph="..." />
                 <marker date="1542023010972" expanded="true" signature="1898:2129" ph="..." />
+=======
+        <entry file="file://$PROJECT_DIR$/home/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1254">
+              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/self_admin/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <folding>
+                <element signature="e#637#669#0" expanded="true" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/self_admin/templates/self_admin/table_obj_list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
               <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+=======
+        <entry file="file://$PROJECT_DIR$/home/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/self_admin/templatetags/tags.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -152,6 +228,33 @@
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <marker date="1542025210292" expanded="false" signature="190:195" ph="..." />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/students/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/self_admin/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
               </folding>
             </state>
           </provider>
@@ -160,25 +263,54 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/self_admin/self_admin.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="132">
               <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
+=======
+            <state relative-caret-position="379">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/self_admin/table_obj.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+              <folding>
+                <element signature="e#830#854#0#HTML" expanded="true" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/self_admin/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
               <caret line="22" column="47" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="47" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/self_admin/templatetags/tags.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding>
+                <marker date="1541947482878" expanded="true" signature="219:224" ph="..." />
+                <marker date="1541947482878" expanded="true" signature="324:329" ph="..." />
+              </folding>
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/self_admin/admin_base.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
@@ -186,12 +318,19 @@
               <folding>
                 <marker date="1542009510181" expanded="true" signature="30:35" ph="..." />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/crm/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1804">
+              <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -212,12 +351,15 @@
       <replace>href=&quot;&quot;</replace>
     </replaceStrings>
   </component>
+=======
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/crm/__init__.py" />
         <option value="$PROJECT_DIR$/home/templates/index.html" />
         <option value="$PROJECT_DIR$/home/templates/base.html" />
@@ -257,6 +399,15 @@
         <option value="$PROJECT_DIR$/../../Python/Python/day12/code/mydeco1.py" />
         <option value="$PROJECT_DIR$/../../Python/MyCode/MyPythonCode/高阶函数_闭包_递归_装饰器.py" />
         <option value="$USER_HOME$/Downloads/pandas_day_01/pandas_day01_student/pandas_student/practice.py" />
+=======
+        <option value="$PROJECT_DIR$/crm/settings.py" />
+        <option value="$PROJECT_DIR$/self_admin/urls.py" />
+        <option value="$PROJECT_DIR$/self_admin/views.py" />
+        <option value="$PROJECT_DIR$/self_admin/self_admin.py" />
+        <option value="$PROJECT_DIR$/home/models.py" />
+        <option value="$PROJECT_DIR$/templates/self_admin/table_obj.html" />
+        <option value="$PROJECT_DIR$/self_admin/templatetags/tags.py" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
       </list>
     </option>
   </component>
@@ -266,18 +417,31 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="101" />
     <option name="y" value="55" />
     <option name="width" value="1795" />
     <option name="height" value="943" />
   </component>
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="71" />
+    <option name="y" value="24" />
+    <option name="width" value="1034" />
+    <option name="height" value="693" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -304,30 +468,48 @@
               <item name="crm" type="b2602c69:ProjectViewProjectNode" />
               <item name="crm" type="462c0819:PsiDirectoryNode" />
               <item name="self_admin" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="templatetags" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
             </path>
             <path>
               <item name="crm" type="b2602c69:ProjectViewProjectNode" />
               <item name="crm" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="self_admin" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="self_admin" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
             </path>
             <path>
               <item name="crm" type="b2602c69:ProjectViewProjectNode" />
               <item name="crm" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="self_admin" type="462c0819:PsiDirectoryNode" />
               <item name="templatetags" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
             </path>
             <path>
               <item name="crm" type="b2602c69:ProjectViewProjectNode" />
               <item name="crm" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="students" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="self_admin" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,6 +535,18 @@
       <recent name="C:\Users\tjajia\Desktop\CRM\crm\templates" />
       <recent name="C:\Users\tjajia\Desktop\CRM\crm\home\templates" />
     </key>
+=======
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/zyh/桌面/CRM/crm/self_admin/templatetags/tags.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vcs.patch.path" value="$APPLICATION_HOME_DIR$/bin/https:/github.com/zhangyahan" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -366,6 +560,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.practice">
     <configuration name="高阶函数_闭包_递归_装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crm" />
@@ -455,22 +650,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+  <component name="RunManager">
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
     <configuration name="crm" type="Python.DjangoServer" factoryName="Django server">
       <module name="crm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+<<<<<<< HEAD
         <env name="DJANGO_SETTINGS_MODULE" value="crm.settings" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\tjajia\AppData\Local\Programs\Python\Python36\python.exe" />
+=======
+      </envs>
+      <option name="SDK_HOME" value="" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
+<<<<<<< HEAD
       <option name="host" value="127.0.0.1" />
+=======
+      <option name="host" value="" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
       <option name="additionalOptions" value="" />
       <option name="browserUrl" value="" />
       <option name="runTestServer" value="false" />
@@ -479,6 +686,7 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <list>
       <item itemvalue="Django server.crm" />
       <item itemvalue="Python.高阶函数_闭包_递归_装饰器" />
@@ -494,12 +702,18 @@
         <item itemvalue="Python.mydeco1" />
       </list>
     </recent_temporary>
+=======
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="13182550-91c5-4ce0-86b1-a89018e32ce3" name="Default Changelist" comment="" />
       <created>1541725404114</created>
       <option name="number" value="Default" />
@@ -546,10 +760,66 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42150804" />
+=======
+      <changelist id="880519db-95eb-4e9a-9116-9ba498f6b1f9" name="Default Changelist" comment="" />
+      <created>1541692116156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541692116156</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1541692576324</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541692576324</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CRM">
+      <created>1541692680427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541692680427</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CRM">
+      <created>1541696355536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541696355536</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CRM">
+      <created>1541947526234</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541947526235</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CRM">
+      <created>1541947771757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541947771757</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-6" width="1366" height="729" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.07615894" visible="true" weight="0.15519765" />
+      <window_info id="Structure" order="1" sideWeight="0.92384106" side_tool="true" weight="0.20543806" />
+      <window_info id="Favorites" order="2" sideWeight="0.92384106" side_tool="true" weight="0.13217522" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Database Console" order="7" weight="0.32951653" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32880098" />
@@ -562,11 +832,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="4" weight="0.1514423" />
+=======
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3296" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -593,6 +877,8 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -601,6 +887,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="CRM" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a188f543-403c-45f6-89d1-c3675b6ca279/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -691,11 +978,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/crm/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crm/settings.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="502">
           <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
         </state>
@@ -734,10 +1028,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+=======
+        <state relative-caret-position="1804">
+          <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/self_admin/models.py">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -783,11 +1082,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
+=======
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/students/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/urls.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="378">
           <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
         </state>
@@ -845,30 +1153,61 @@
         <state>
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+=======
+        <state relative-caret-position="291">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/Downloads/pandas_day_01/pandas_day01_student/pandas_student/practice_structure.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/self_admin/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#637#669#0" expanded="true" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/self_admin/self_admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/self_admin/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/self_admin/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -892,17 +1231,47 @@
           <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/home/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1254">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self_admin/self_admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/self_admin/table_obj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+          <folding>
+            <element signature="e#830#854#0#HTML" expanded="true" />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/self_admin/templatetags/tags.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="668">
           <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <marker date="1542025210292" expanded="false" signature="190:195" ph="..." />
+=======
+        <state relative-caret-position="462">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <marker date="1541947482878" expanded="true" signature="219:224" ph="..." />
+            <marker date="1541947482878" expanded="true" signature="324:329" ph="..." />
+>>>>>>> 8d35368efaaa87ccc7251708fb4e94f25f40d11c
           </folding>
         </state>
       </provider>
