@@ -1,4 +1,0 @@
-
-
-class BaseSelfAdmin(object):
-    pass
